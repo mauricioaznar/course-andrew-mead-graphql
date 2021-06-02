@@ -1,0 +1,5 @@
+.idea
+node-modules
+package-lock.json
+/graphql-basics/node_modules
+/graphql-prisma/node_modules
